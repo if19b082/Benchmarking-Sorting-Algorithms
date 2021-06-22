@@ -249,6 +249,8 @@
     </ItemGroup>
     <ItemGroup>
         <Compile Include="Algorithm\SortingAlgorithm.cs" />
+        <Compile Include="Algorithm\SortingAlgorithmsInteger.cs" />
+        <Compile Include="Algorithm\SortingAlgorithmsStruct.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
