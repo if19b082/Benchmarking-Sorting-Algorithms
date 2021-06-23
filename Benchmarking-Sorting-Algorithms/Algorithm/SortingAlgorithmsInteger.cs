@@ -2,7 +2,7 @@
 
 namespace Benchmarking_Sorting_Algorithms.Algorithm
 {
-    public class SortingAlgorithmsInteger
+    public static class SortingAlgorithmsInteger
     {
         public static void BubbleSort(int[] intArray)
         {
